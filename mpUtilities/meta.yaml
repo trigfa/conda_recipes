@@ -1,0 +1,23 @@
+package:
+  name: mputilities
+  version: 0.3.0
+
+source:
+  git_tag: v0.3.0
+  git_url: https://github.com/trigfa/mpUtilities
+
+requirements:
+  build:
+    - python
+    - setuptools
+
+  run:
+    - python
+
+test:
+  imports:
+
+about:
+  home:
+  license: MIT
+  summary: "Grahams useful utilities. Probably only useful to me."
