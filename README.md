@@ -7,9 +7,8 @@ This repository contains the [conda](https://conda.anaconda.org/trigfa) build re
 First you need anaconda-client and anaconda-build installed:
 
 ``` bash
-conda install anaconda-client anaconda-build
+conda install anaconda-client conda-build
 
-```
 Then clone the repository:
 
 ``` bash
