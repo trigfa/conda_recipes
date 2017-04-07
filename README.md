@@ -9,6 +9,8 @@ First you need anaconda-client and anaconda-build installed:
 ``` bash
 conda install anaconda-client conda-build
 
+```
+
 Then clone the repository:
 
 ``` bash
